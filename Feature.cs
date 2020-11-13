@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task2
 {
-    class NewClass
+    class Feature
     {
-        public static void Call()
-        {
-            Console.WriteLine("Hello New World!");
-        }
     }
 }
