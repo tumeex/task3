@@ -10,9 +10,9 @@ namespace Task2
     {
         public static void Name()
         {
-            Console.WriteLine("Your age: ");
+            Console.WriteLine("Your young age: ");
             int age = int.Parse(Console.ReadLine());
-            Console.WriteLine("You are "+age+" years old!");
+            Console.WriteLine("You are "+age+" years young!");
         }
     }
 }
