@@ -13,6 +13,7 @@ namespace Task2
             Console.WriteLine("Hello World!");
             NewClass.Call();
             Feature.Name();
+            Console.WriteLine("new line added");
         }
     }
 }
