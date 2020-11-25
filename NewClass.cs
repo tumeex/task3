@@ -10,7 +10,7 @@ namespace Task2
     {
         public static void Call()
         {
-            Console.WriteLine("Hello The New World!");
+            Console.WriteLine("Hello The Best New World!");
         }
     }
 }
