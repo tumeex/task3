@@ -10,7 +10,7 @@ namespace Task2
     {
         public static void Name()
         {
-            Console.WriteLine("Your young age: ");
+            Console.WriteLine("Your accurate legal age: ");
             int age = int.Parse(Console.ReadLine());
             Console.WriteLine("You are "+age+" years young!");
         }
